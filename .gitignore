@@ -1,0 +1,19 @@
+__pycache__/
+.Python
+lib/
+wheels/
+share/
+.installed.cfg
+
+bin/
+include/
+
+# Environments
+pyvenv.cfg
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/

@@ -1,0 +1,5 @@
+python-dateutil==2.7.3
+pytz==2019.3
+requests==2.21.0
+RPi.GPIO==0.7.0
+RPLCD==1.2.2
